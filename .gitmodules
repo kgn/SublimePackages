@@ -1,3 +1,6 @@
 [submodule "Theme - Soda"]
 	path = Theme - Soda
 	url = https://github.com/buymeasoda/soda-theme/
+[submodule "coffee-script-tmbundle"]
+	path = coffee-script-tmbundle
+	url = https://github.com/jashkenas/coffee-script-tmbundle.git
